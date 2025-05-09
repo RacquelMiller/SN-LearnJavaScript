@@ -6,5 +6,5 @@ var iStr = i.toString(); // toString converts integer to a string, just in case 
 gs.info(typeof i); // 
 gs.info(typeof iStr);
 
-var n = parseInt(iStr);
+var n = parseInt(iStr); // parseInt converts string to a number 
 gs.info(typeof n + ' n=' + n);

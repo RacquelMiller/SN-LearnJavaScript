@@ -3,14 +3,14 @@
 //
 
 // Assignment
-var a = 12;
-var b = 3;
+var a = 8;
+var b = 12;
 
 // Addition
-gs.info(2 + 2);
-gs.info(a + 2);
-b = b + 2;
-// b += 2;  // shorthand for the line above
+gs.info(4 + 4);
+gs.info(a + 4);
+b = b + 4; // takes b and increments it by four, then stores the new number back into b 
+// b += 4;  // shorthand for the line above
 gs.info(a + b);
 
 // Increment by 1

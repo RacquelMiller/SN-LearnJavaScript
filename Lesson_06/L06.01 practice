@@ -1,0 +1,5 @@
+//
+// L06.01 practice 
+// " "- quotation marks = quotes or double quotations, ' ' = quotes or single quotations
+//
+var myHair = "Racquel's Hair";  // Mix double quotation marks to avoid issues when using a single quotation mark as an apostrophe

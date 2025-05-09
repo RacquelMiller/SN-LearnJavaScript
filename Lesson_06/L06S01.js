@@ -1,9 +1,9 @@
 //
 // L06S01 - Strings
 //
-var firstName = "Chuck";
-var lastName  = 'Tomasi';  // Either is ok
-var myCar     = "Chuck's Car";  // Mix them to avoid issues
+var firstName = "Racquel";
+var lastName  = 'Miller';  // Either is ok
+var myHair     = "Racquel's Hair";  // Mix quotation marks to avoid issues when using an apostrophe
 
 // Note the use of + when strings are involved
 var name = firstName + ' ' + lastName;

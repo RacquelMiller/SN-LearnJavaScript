@@ -7,6 +7,6 @@
 // \' = single quote
 // \" = double quote
 //
-gs.info('Single string\nTwo lines');
-gs.info('Chuck\'s simple script');
+gs.info('Single string\nFour lines');
+gs.info('Racquel\'s simple script');
 gs.info('Don\'t confuse a forward slash (/) with a backslash(\\)');

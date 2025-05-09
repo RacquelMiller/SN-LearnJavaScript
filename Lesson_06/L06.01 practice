@@ -1,5 +1,7 @@
 //
 // L06.01 practice 
 // " "- quotation marks = quotes or double quotations, ' ' = quotes or single quotations
-//
-var myHair = "Racquel's Hair";  // Mix double quotation marks to avoid issues when using a single quotation mark as an apostrophe
+// var myHair = "Racquel's Beautiful Hair";  // Mix double quotation marks to avoid issues when using a single quotation mark as an apostrophe
+or 
+var myHair = 'Racquel\'s Beautiful Hair'; // you can use an escape character such as "\" which changes the meaning of the single quote used as an apostrophe  
+gs.info(myHair);

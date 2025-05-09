@@ -5,6 +5,7 @@ gs.info(myUnknownVariable); // myUnknownVariable variable is not declared
 ga.info('Great day we are having!); // ga.info variable is incorrect and second quote is not present
 //
 // Correction
+//
 var myUnknownVariable = 'Hello, sunshine!';
 
 gs.info(myUnknownVariable);
